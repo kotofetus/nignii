@@ -1,0 +1,14 @@
+body{
+    max-width: 1062px;
+    width: 100%;
+    margin: auto;
+    background: url('./img/background\ 1.png') no-repeat center;
+    height: 100%;
+    color: #000000;
+}
+.main-text{
+    font-weight: 500;
+    font-size:  40px;
+    line-height: 100px;
+    text-decoration: none;
+    color: #15042b;}
